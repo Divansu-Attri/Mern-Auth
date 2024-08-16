@@ -57,7 +57,9 @@
 
 5. Open your browser and navigate to http://localhost:5173
 
-6. First, log in using the email and password [Email: d@gmail.com || Password: Divansu123] . Once you are logged in, enter /admin in the URL and press Enter.
+6. IF You want to access Admin Path then,
+
+      - First, log in using the email and password [Email: d@gmail.com || Password: Divansu123] . Once you are logged in,      enter /admin in the URL and press Enter.
 
 ## Technologies Used
 
