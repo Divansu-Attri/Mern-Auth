@@ -17,7 +17,7 @@
   - Admins can delete users from the database.
 
   - Don't Worry I will Provide you the Admin User Email or Password. so you can check the admin section.
-  - Email : d@gmail.com
+  - Email : divansu@gmail.com
   - Password : Divansu123
 
 - Contact Route:
