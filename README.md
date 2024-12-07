@@ -38,14 +38,7 @@
 
    ```
 
-2. Install Dependencies:
-   cd server/
-   npm install
-
-   cd Client/
-   npm install
-
-3. Firstly Run the server:
+2. Firstly Run the server:
 
    - cd server/
      - nodemon server.js
