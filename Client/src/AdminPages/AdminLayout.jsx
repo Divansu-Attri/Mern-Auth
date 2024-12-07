@@ -17,7 +17,7 @@ export default function AdminLayout() {
     <>
     <header>
       <div className="container">
-        <nav className="navbar navbar-expand-lg navbar-dark bg-success rounded container-fluid">
+        <nav className="navbar navbar-expand-lg navbar-dark bg-success m-3 rounded container-fluid">
         <Link className="navbar-brand text-dark p-2" to="#">
            Admin Pannel
        </Link>
@@ -29,7 +29,7 @@ export default function AdminLayout() {
                 </Link>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" to="/admin/contacts">
+                <Link className="nav-link text-dark" to="/admin/contacts">
                   Contacts
                 </Link>
               </li>
@@ -39,7 +39,7 @@ export default function AdminLayout() {
                 </Link>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" to="/">
+                <Link className="nav-link text-dark" to="/">
                   Home
                 </Link>
               </li>
