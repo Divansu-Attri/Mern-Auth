@@ -4,7 +4,7 @@
 
 - User Registration and Login:
 
-  - Users can register and log in to the website.
+  - Users can register and log in to the Website.
   - During registration and login, a token is generated for verification and authentication.
   - Your Token is stored in Local storage You can check your Token in Local storage after Login/Registration.
   - User data is stored in a MongoDB database.
