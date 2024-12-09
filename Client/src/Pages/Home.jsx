@@ -22,7 +22,7 @@ export default function Home() {
       <hr className="my-4" />
       <h4>If you want to visit Admin Pannel then login this:</h4>
       <p>Email: divansu@gmail.com</p>
-      <p>Password: Divansu 123</p>
+      <p>Password: Divansu123</p>
       <a className="btn btn-success btn-lg" href="/about" role="button">
         Learn more
       </a>
